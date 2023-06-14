@@ -13,3 +13,5 @@ for k in range(20):
     a_current = calculate_next_fibonacci_number(a_current, a_old)
     print(a_current)
     a_old = swap
+
+hallo
